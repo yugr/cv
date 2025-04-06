@@ -1,7 +1,7 @@
 My name is YURI GRIBOV (also "IURII GRIBOV", "YURY GRIBOV").
 but I normally go as "yugr" (or "the_real_yugr") on social networks.
 
-# Summary
+# About me
 
 I’m a professional programmer with extensive experience in development tools
 (compilers, code generators, dynamic and static analyzers), low-level optimization and system programming.
@@ -11,37 +11,45 @@ novel computer architectures and brought up numerous successful teams.
 
 I’m passionate about my work and have over 30 open-source projects on [GitHub](https://github.com/yugr).
 The most popular ones are
-  - [Implib.so](https://github.com/yugr/Implib.so) - delay-loading library solution for POSIX systems
-  - [Sortchecker](https://github.com/yugr/sortcheck), [Sortchecker++](https://github.com/yugr/sortcheckxx) - dynamic tools to detect misuses of sorting APIs in C/C++ programs
-  - [ShlibVisibilityChecker](https://github.com/yugr/ShlibVisibilityChecker) - tool to report unnecessary exports from Linux shared libraries
+  - [Implib.so](https://github.com/yugr/Implib.so) - delay-loading of shared libraries on POSIX systems
+  - [Sortchecker](https://github.com/yugr/sortcheck), [Sortchecker++](https://github.com/yugr/sortcheckxx) - detect misuses of sorting APIs in C/C++ programs
+  - [ShlibVisibilityChecker](https://github.com/yugr/ShlibVisibilityChecker) - find redundant exports in shared libraries on Linux
 
-I'm interested in jobs that include design and implementation of complex, math-intensive systems and algorithms (usually such positions have a "Strong mathematical background" requirement). I am particularly interested in HPC, system programming (compilers, operating systems, etc.), SW verification, computer architecture.
+I'm interested in jobs that include design and implementation of complex, math-intensive systems and algorithms (usually such positions have a "Strong mathematical background" requirement). I am particularly interested in system programming (compilers, etc.), SW verification (static and dynamic analysis, model checking, etc.), computer architecture, HPC.
 
 # Professional skills
 
 I am experienced in
-  - Professional software development on Linux/Windows platforms
+  - Software development on Linux/Windows platforms
     * C/C++, shell, Python, Perl, assembler
-    * (to a lesser degree) Rust, Haskell, Fortran, Java (J2SE, JChart2D), Delphi
-  - Design of optimizing compilers and runtime systems (handmade, Open64, GCC and LLVM, MLIR, constraint solvers)
+    * (to a lesser degree) Rust, Haskell, Fortran, Java
+  - Design and implementation of optimizing compilers  (handmade, Open64, GCC and LLVM, MLIR) and runtimes
   - Software/hardware verification (dynamic and static analyzers, model checking via TLA+/SPIN)
-  - Parallel programming (Pthreads, MPI, Linux/Windows IPC, Intel TBB, Shmem, GASNet, UPC, ARMCI)
+  - Parallel programming (Pthreads, MPI, Intel TBB, Shmem, GASNet, UPC)
   - Computer architecture
-  - Mathematical software development with Matlab/Simulink, Maple
-    * Signal and image processing, mechanics, optimization, etc.
+  - Mathematical software development with MATLAB/Simulink and Maple (signal processing, mechanics, optimization, etc.)
 
 # Education
 
-2001 – 2006, Moscow Institute of Electronics and Mathematics (MIEM, now High School of Economics)
-  - Faculty of Applied Mathematics, MoS in Applied mathematics
-  - Mathematician/engineer
+2001 – 2006, Moscow Institute of Electronics and Mathematics (MIEM, later High School of Economics)
+  - MSc. in Applied Mathematics
   - Thesis: "Knowledge-based systems for mosaic synthesis"
-    * A rule-based AI system on top of CLIPS/JESS
-    * Image and signal processing in Matlab and C++
+    * Rule-based expert system in CLIPS/JESS
+    * Image and signal processing in MATLAB and C++
+
+# Publications and conferences
+
+- [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf) (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
+- [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf) (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
+- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s) (CGO 2023)
+- Y. Gribov et al., Fast memory debugger for large software projects (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
+- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
+- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (scientific and technical conference of MIEM, Moscow, 2005, first place)
+- Y. Gribov, Numeric analysis of stressedly-deformed corner stress concentrators (4-th international scientific conference "Aerospace technologies", 2004)
 
 # Professional experience
 
-## Dec 2022 - now, "Huawei" (electronic industry), Moscow
+## Dec 2022 - present, "Huawei" (electronic industry), Moscow
 
 Principal Developer:
   - LLVM and AI compiler research and performance analysis
@@ -59,11 +67,11 @@ AI compiler optimizations teamlead, AI compiler project lead:
   - Mentoring new employees
   - Interviewing new hires
 
-## January 2009 – now, freelance
+## January 2009 – present, freelance
 
 - Commercial GNU/LLVM toolchain maintenance (fixing bugs and developing new features in Binutils, GCC, QEMU, GDB, supporting and supervising external contractors and other teams)
 - Porting parallel languages and libraries (GASNet, UPC, ARMCI, CAF) to new platforms
-- Various data mining and image processing tasks (mostly Matlab but also C and Haskell)
+- Various data mining and image processing tasks (mostly MATLAB but also C and Haskell)
 - Financial modeling (Maple)
 - Parallelization of [Molconn library](http://www.molconn.com) (molecular structure descriptors)
   * Mostly C++, some Fortran, calibration done in Haskell
@@ -120,30 +128,29 @@ Senior developer in Tegra team (September 2011 - July 2013):
     * Documentation and improvement of team development processes
 
 Senior developer in APEX team (March 2010 - September 2011):
-  - Working on various parts on APEX, Nvidia physics engine:
+  - Working on various parts on APEX physics engine:
     * prototype physics shader language with CPU and GPU backends (parser/code generator based on Clang, runtime system: C++, CUDA, test harness in Perl)
     * metadata object system with reflection and inplace serialization for various platforms (C++, Perl);
     * particle systems (C++, CUDA)
 
-## January 2008 – March 2010, OAO "NICEVT" (hardware and system software engineering), Moscow
+## January 2008 – March 2010 "JSC NICEVT" (hardware and system software engineering), Moscow
 
 Senior programmer:
-  - Scientific research and development
   - Stress testing of parallel computations libraries on clusters
   - Design, development, testing and performance analysis of system software for Cray MTA-like projected supercomputers:
-    * Optimizing compilers for C and Fortran (programming in C++, unit-testing framework in bash)
-    * Macrolibraries for easier assembler programming (used m4 macroprocessor)
+    * Optimizing compilers for C and Fortran (C++)
+    * Macrolibraries for easier assembler programming (m4 macroprocessor)
     * Experimental dataflow computations library (programming in C and assembler, analysis with Perl, gnuplot and Octave)
-    * Visualization of simulation results (Java, shell)
-    * Participating in development of other system software: assembler, linker, object file analyzer, simulator of designed supercomputer (C++, assembler)
+    * Visualization of simulation results (Java)
+    * Fixing bugs in other toolchain components (assembler, linker, object file analyzer, simulator of designed supercomputer)
 
 ## March 2006 – January 2008, "Siemens VDO Engineering" (electronic automotive control systems), Moscow
 
 Senior engineer:
-  - Software for design of automotive engine control systems (Matlab/Simulink, C, Perl)
-  - Software for analysis of experimental data (Matlab/Simulink, C++)
-  - Automation of common specifications checks (Perl)
-  - Static analysis and automatic adaptation of Matlab programs (Perl, C/yacc/Flex)
+  - Software for design of automotive engine control systems (MATLAB/Simulink, C, Perl)
+  - Software for analysis of experimental data (MATLAB/Simulink, C++)
+  - Automation of common specification checks in legacy MATLAB codes (Perl)
+  - Static analysis and automatic adaptation of legacy MATLAB codes (Perl, C/yacc/flex)
   - Automated tests for verification of engine control systems (for automotive HIL-simulators dSpace and Labcar)
   - Continuous contact with foreign customers (telephone conferences, e-mail)
   - Training new employees
@@ -151,15 +158,5 @@ Senior engineer:
 ## July 2002 - November 2002 MIEM, dep. of Mathematical modeling
 
 Technician:
-  - Design and implementation of mathematical algorithms for continuum mechanics modeling (C, Matlab/Femlab, Delphi).
-
-# Publications and conferences
-
-- [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf) (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
-- [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf) (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
-- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s) (CGO 2023)
-- Y. Gribov et al., Fast memory debugger for large software projects (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
-- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
-- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (scientific and technical conference of MIEM, Moscow, 2005, first place)
-- Y. Gribov, Numeric analysis of stressedly-deformed corner stress concentrators (4-th international scientific conference "Aerospace technologies")
+  - Design and implementation of mathematical algorithms for continuum mechanics modeling (C, MATLAB/FEMLAB, Delphi).
 
