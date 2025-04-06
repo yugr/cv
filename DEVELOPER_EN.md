@@ -32,7 +32,7 @@ I am experienced in
 # Education
 
 2001 – 2006, Moscow Institute of Electronics and Mathematics (MIEM, later High School of Economics)
-  - MSc. in Applied Mathematics
+  - MSc in Applied Mathematics
   - Thesis: "Knowledge-based systems for mosaic synthesis"
     * Rule-based expert system in CLIPS/JESS
     * Image and signal processing in MATLAB and C++
@@ -49,12 +49,12 @@ I am experienced in
 
 # Professional experience
 
-## Dec 2022 - present, "Huawei" (electronic industry), Moscow
+## Dec 2022 - present, Huawei (electronic industry), Moscow
 
 Principal Developer:
   - LLVM and AI compiler research and performance analysis
 
-## March 2020 - Dec 2022, "Samsung Electronics" (electronic industry), Moscow
+## March 2020 - Dec 2022, Samsung Electronics (electronic industry), Moscow
 
 HPC Lab lead:
   - Leading various projects in Accelerated Computing Team:
@@ -76,7 +76,7 @@ AI compiler optimizations teamlead, AI compiler project lead:
 - Parallelization of [Molconn library](http://www.molconn.com) (molecular structure descriptors)
   * Mostly C++, some Fortran, calibration done in Haskell
 
-## May 2016 - March 2020, "CEVA Limited" (electronic industry), UK and Russia
+## May 2016 - March 2020, CEVA Limited (electronic industry), UK/Russia
 
 Principal Developer in SW Development Tools R&D group:
   - Tools and architecture R&D:
@@ -104,7 +104,7 @@ Senior engineer in SW Development Tools group:
     * Mentoring new employees
     * Collaboration with other teams (Binutils, Architecture, QA, Performance Analysis) and external contractors
 
-## July 2013 - May 2016, "Samsung Electronics" (electronic industry), Moscow
+## July 2013 - May 2016, Samsung Electronics (electronic industry), Moscow
 
 Expert engineer in Compiler Group, Team leader since Feb 2015:
   - Various SmartTV toolchain activities:
@@ -116,7 +116,7 @@ Expert engineer in Compiler Group, Team leader since Feb 2015:
     - Benchmarking
     - Documentation and improvement of team development processes
 
-## March 2010 – July 2013 "NVIDIA Ltd." (GPU hardware and software engineering), Moscow
+## March 2010 – July 2013, NVIDIA Ltd. (GPU hardware and software engineering), Moscow
 
 Senior developer in Tegra team (September 2011 - July 2013):
   - Various system programming tasks:
@@ -133,7 +133,7 @@ Senior developer in APEX team (March 2010 - September 2011):
     * metadata object system with reflection and inplace serialization for various platforms (C++, Perl);
     * particle systems (C++, CUDA)
 
-## January 2008 – March 2010 "JSC NICEVT" (hardware and system software engineering), Moscow
+## January 2008 – March 2010, JSC NICEVT (hardware and system software engineering), Moscow
 
 Senior programmer:
   - Stress testing of parallel computations libraries on clusters
@@ -144,7 +144,7 @@ Senior programmer:
     * Visualization of simulation results (Java)
     * Fixing bugs in other toolchain components (assembler, linker, object file analyzer, simulator of designed supercomputer)
 
-## March 2006 – January 2008, "Siemens VDO Engineering" (electronic automotive control systems), Moscow
+## March 2006 – January 2008, Siemens VDO Engineering (electronic automotive control systems), Moscow
 
 Senior engineer:
   - Software for design of automotive engine control systems (MATLAB/Simulink, C, Perl)
@@ -155,7 +155,7 @@ Senior engineer:
   - Continuous contact with foreign customers (telephone conferences, e-mail)
   - Training new employees
 
-## July 2002 - November 2002 MIEM, dep. of Mathematical modeling
+## July 2002 - November 2002, MIEM, Moscow
 
 Technician:
   - Design and implementation of mathematical algorithms for continuum mechanics modeling (C, MATLAB/FEMLAB, Delphi).
