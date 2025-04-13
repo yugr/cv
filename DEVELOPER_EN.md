@@ -1,5 +1,5 @@
 My name is YURI GRIBOV (also "IURII GRIBOV", "YURY GRIBOV").
-but I normally go as "yugr" (or "the_real_yugr") on social networks.
+I normally go as "yugr" (or "the_real_yugr") on social networks.
 
 # About me
 
