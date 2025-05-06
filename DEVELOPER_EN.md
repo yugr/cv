@@ -15,7 +15,11 @@ The most popular ones are
   - [Sortchecker](https://github.com/yugr/sortcheck), [Sortchecker++](https://github.com/yugr/sortcheckxx) - detect misuses of sorting APIs in C/C++ programs
   - [ShlibVisibilityChecker](https://github.com/yugr/ShlibVisibilityChecker) - find redundant exports in shared libraries on Linux
 
-I'm interested in jobs that include design and implementation of complex, math-intensive systems and algorithms (usually such positions have a "Strong mathematical background" requirement). I am particularly interested in system programming (compilers, etc.), SW verification (static and dynamic analysis, model checking, etc.), computer architecture, HPC.
+I'm interested in jobs that include design and implementation of complex, math-intensive systems and
+algorithms (usually such positions have a "Strong mathematical background" requirement).
+I am particularly interested in system programming (compilers, etc.),
+SW verification (static and dynamic analysis, model checking, etc.),
+computer architecture, HPC. I am NOT interested in HFT and finance.
 
 # Professional skills
 
