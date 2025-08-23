@@ -43,8 +43,10 @@ I am experienced in
 
 # Publications and conferences
 
+- [Hardening: current status and trends](https://github.com/yugr/slides/blob/main/CppZeroCost/2025/EN.pdf) (C++ Zero Cost 2025, [video in Russian](https://www.youtube.com/watch?v=v9FY3AiSfHE))
 - [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf) (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
 - [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf) (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
+- [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf) (LaLambda 2021)
 - Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s) (CGO 2023)
 - Y. Gribov et al., Fast memory debugger for large software projects (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
 - Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
