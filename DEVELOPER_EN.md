@@ -15,11 +15,12 @@ The most popular ones are
   - [Sortchecker](https://github.com/yugr/sortcheck), [Sortchecker++](https://github.com/yugr/sortcheckxx) - detect misuses of sorting APIs in C/C++ programs
   - [ShlibVisibilityChecker](https://github.com/yugr/ShlibVisibilityChecker) - find redundant exports in shared libraries on Linux
 
-I'm interested in jobs that include design and implementation of complex, math-intensive systems and
-algorithms (usually such positions have a "Strong mathematical background" requirement).
+I'm interested in jobs that include analysis, design and implementation
+of complex, math-intensive systems and algorithms
+(usually such positions have a "Strong mathematical background" requirement).
 I am particularly interested in system programming (compilers, etc.),
 SW verification (static and dynamic analysis, model checking, etc.),
-computer architecture, HPC. I am NOT interested in HFT and finance.
+computer architecture, HPC. I am NOT interested in HFT, finance and web.
 
 # Professional skills
 
@@ -43,11 +44,12 @@ I am experienced in
 
 # Publications and conferences
 
+- AI compiler challenges (ISP RAS conference 2025, [video in Russian](https://vkvideo.ru/video-214485707_456239055?t=1h2m10s))
 - [Hardening: current status and trends](https://github.com/yugr/slides/blob/main/CppZeroCost/2025/EN.pdf) (C++ Zero Cost 2025, [video in Russian](https://www.youtube.com/watch?v=v9FY3AiSfHE))
 - [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf) (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
 - [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf) (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
-- [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf) (LaLambda 2021)
 - Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s) (CGO 2023)
+- [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf) (LaLambda 2021)
 - Y. Gribov et al., Fast memory debugger for large software projects (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
 - Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
 - Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (scientific and technical conference of MIEM, Moscow, 2005, first place)
@@ -57,12 +59,14 @@ I am experienced in
 
 ## Dec 2022 - present, Huawei (electronic industry), Moscow
 
-Principal Developer:
-  - LLVM and AI compiler research and performance analysis
+Principal developer in Wireless compiler team, teamlead since Sep 2025:
+  - Developing new optimizations and analyses for LLVM and AI compiler
+  - Performance analysis of hotspots in target SW/models
+  - Paper reviews
 
 ## March 2020 - Dec 2022, Samsung Electronics (electronic industry), Moscow
 
-HPC Lab lead:
+HPC Lab leader:
   - Leading various projects in Accelerated Computing Team:
     * bringing up teams and leading development of new features and optimizations for NPU and PIM compilers and runtime systems
     * Monitoring and controlling team activities (code reviews, design and daily meetings, planning sessions, reporting to upper management and customers, hiring and mentoring, etc.)
@@ -84,7 +88,7 @@ AI compiler optimizations teamlead, AI compiler project lead:
 
 ## May 2016 - March 2020, CEVA Limited (electronic industry), UK/Russia
 
-Principal Developer in SW Development Tools R&D group:
+Principal developer in SW Development Tools R&D group:
   - Tools and architecture R&D:
     * Initial support for new architectural and/or toolchain features in compiler
     * Benchmarking and data analysis for Arch team
@@ -112,7 +116,7 @@ Senior engineer in SW Development Tools group:
 
 ## July 2013 - May 2016, Samsung Electronics (electronic industry), Moscow
 
-Expert engineer in Compiler Group, Team leader since Feb 2015:
+Expert engineer in Compiler Group, teamlead since Feb 2015:
   - Various SmartTV toolchain activities:
     - Leading static analysis and toolchain teams (3-4 people each): collecting requirements, planning, tracking, reporting, setting up development processes
     - Supporting SmartTV product team
