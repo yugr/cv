@@ -15,12 +15,14 @@ The most popular ones are
   - [Sortchecker](https://github.com/yugr/sortcheck), [Sortchecker++](https://github.com/yugr/sortcheckxx) - detect misuses of sorting APIs in C/C++ programs
   - [ShlibVisibilityChecker](https://github.com/yugr/ShlibVisibilityChecker) - find redundant exports in shared libraries on Linux
 
-I'm interested in jobs that include analysis, design and implementation
+My StackOverflow account: https://stackoverflow.com/users/2170527/yugr
+
+I prefer jobs that require analysis, design and implementation
 of complex, math-intensive systems and algorithms
 (usually such positions have a "Strong mathematical background" requirement).
 I am particularly interested in system programming (compilers, etc.),
 SW verification (static and dynamic analysis, model checking, etc.),
-computer architecture, HPC. I am NOT interested in HFT, finance and web.
+computer architecture, HPC. I am NOT interested in finance (including HFT) and web.
 
 # Professional skills
 
@@ -28,15 +30,18 @@ I am experienced in
   - Software development on Linux/Windows platforms
     * C/C++, shell, Python, Perl, assembler
     * (to a lesser degree) Rust, Haskell, Fortran, Java
-  - Design and implementation of optimizing compilers  (handmade, Open64, GCC and LLVM, MLIR) and runtimes
-  - Software/hardware verification (dynamic and static analyzers, model checking via TLA+/SPIN)
+  - Design and implementation of optimizing compilers
+    (handmade, Open64, GCC and LLVM, MLIR) and runtimes
+  - Software/hardware verification
+    (dynamic and static analyzers, model checking via TLA+/SPIN)
   - Parallel programming (Pthreads, MPI, Intel TBB, Shmem, GASNet, UPC)
   - Computer architecture
-  - Mathematical software development with MATLAB/Simulink and Maple (signal processing, mechanics, optimization, etc.)
+  - Mathematical research and software development with MATLAB/Simulink and Maple
+    (signal processing, mechanics, optimization, etc.)
 
 # Education
 
-2001 – 2006, Moscow Institute of Electronics and Mathematics (MIEM, later High School of Economics)
+2001 - 2006, Moscow Institute of Electronics and Mathematics (MIEM, later High School of Economics)
   - MSc in Applied Mathematics
   - Thesis: "Knowledge-based systems for mosaic synthesis"
     * Rule-based expert system in CLIPS/JESS
@@ -45,30 +50,39 @@ I am experienced in
 # Publications and conferences
 
 - AI compiler challenges (ISP RAS conference 2025, [video in Russian](https://vkvideo.ru/video-214485707_456239055?t=1h2m10s))
-- [Hardening: current status and trends](https://github.com/yugr/slides/blob/main/CppZeroCost/2025/EN.pdf) (C++ Zero Cost 2025, [video in Russian](https://www.youtube.com/watch?v=v9FY3AiSfHE))
-- [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf) (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
-- [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf) (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
-- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s) (CGO 2023)
-- [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf) (LaLambda 2021)
-- Y. Gribov et al., Fast memory debugger for large software projects (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
-- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
-- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class (scientific and technical conference of MIEM, Moscow, 2005, first place)
-- Y. Gribov, Numeric analysis of stressedly-deformed corner stress concentrators (4-th international scientific conference "Aerospace technologies", 2004)
+- [Hardening: current status and trends](https://github.com/yugr/slides/blob/main/CppZeroCost/2025/EN.pdf)
+  (C++ Zero Cost 2025, [video in Russian](https://www.youtube.com/watch?v=v9FY3AiSfHE))
+- [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf)
+  (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
+- [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf)
+  (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
+- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s)
+  (CGO 2023)
+- [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf)
+  (LaLambda 2021)
+- Y. Gribov et al., Fast memory debugger for large software projects
+  (International Journal of Open Information Technologies, vol. 3, no. 9, 2015)
+- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class
+  (international conference “New information technologies”, Crimea, 2005, first place and grant nomination)
+- Y. Gribov, Development of mosaic synthesis system in knowledge-based systems class
+  (scientific and technical conference of MIEM, Moscow, 2005, first place)
+- Y. Gribov, Numeric analysis of stressedly-deformed corner stress concentrators
+  (4-th international scientific conference "Aerospace technologies", 2004)
 
 # Professional experience
 
 ## Dec 2022 - present, Huawei (electronic industry), Moscow
 
 Principal developer in Wireless compiler team, teamlead since Sep 2025:
-  - Developing new optimizations and analyses for LLVM and AI compiler
-  - Performance analysis of hotspots in target SW/models
+  - Developing new optimizations and analyses for LLVM and AI compilers
+  - Performance analysis of target SW/models
   - Paper reviews
 
 ## March 2020 - Dec 2022, Samsung Electronics (electronic industry), Moscow
 
 HPC Lab leader:
   - Leading various projects in Accelerated Computing Team:
-    * bringing up teams and leading development of new features and optimizations for NPU and PIM compilers and runtime systems
+    * Bringing up teams and leading development of new features and optimizations for NPU and PIM compilers and runtime systems
     * Monitoring and controlling team activities (code reviews, design and daily meetings, planning sessions, reporting to upper management and customers, hiring and mentoring, etc.)
 
 AI compiler optimizations teamlead, AI compiler project lead:
@@ -77,7 +91,7 @@ AI compiler optimizations teamlead, AI compiler project lead:
   - Mentoring new employees
   - Interviewing new hires
 
-## January 2009 – present, freelance
+## January 2009 - present, freelance
 
 - Commercial GNU/LLVM toolchain maintenance (fixing bugs and developing new features in Binutils, GCC, QEMU, GDB, supporting and supervising external contractors and other teams)
 - Porting parallel languages and libraries (GASNet, UPC, ARMCI, CAF) to new platforms
@@ -126,7 +140,7 @@ Expert engineer in Compiler Group, teamlead since Feb 2015:
     - Benchmarking
     - Documentation and improvement of team development processes
 
-## March 2010 – July 2013, NVIDIA Ltd. (GPU hardware and software engineering), Moscow
+## March 2010 - July 2013, NVIDIA Ltd. (GPU hardware and software engineering), Moscow
 
 Senior developer in Tegra team (September 2011 - July 2013):
   - Various system programming tasks:
@@ -143,7 +157,7 @@ Senior developer in APEX team (March 2010 - September 2011):
     * metadata object system with reflection and inplace serialization for various platforms (C++, Perl);
     * particle systems (C++, CUDA)
 
-## January 2008 – March 2010, JSC NICEVT (hardware and system software engineering), Moscow
+## January 2008 - March 2010, JSC NICEVT (hardware and system software engineering), Moscow
 
 Senior programmer:
   - Stress testing of parallel computations libraries on clusters
@@ -154,7 +168,7 @@ Senior programmer:
     * Visualization of simulation results (Java)
     * Fixing bugs in other toolchain components (assembler, linker, object file analyzer, simulator of designed supercomputer)
 
-## March 2006 – January 2008, Siemens VDO Engineering (electronic automotive control systems), Moscow
+## March 2006 - January 2008, Siemens VDO Engineering (electronic automotive control systems), Moscow
 
 Senior engineer:
   - Software for design of automotive engine control systems (MATLAB/Simulink, C, Perl)
