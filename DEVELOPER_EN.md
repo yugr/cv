@@ -55,7 +55,7 @@ I am experienced in
 - [Dynamic libraries and how to optimize them](https://github.com/yugr/CppRussia/blob/master/2024/EN.pdf)
   (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
 - [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf)
-  (C++Russia 2023, [video in Russian](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf))
+  (C++Russia 2023, [video in Russian](https://www.youtube.com/watch?v=NKn1pAoB2MM))
 - Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s)
   (CGO 2023)
 - [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf)
