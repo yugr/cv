@@ -73,7 +73,12 @@ I am experienced in
 
 ## Dec 2022 - present, Huawei (electronic industry), Moscow
 
-Principal developer in Wireless compiler team, teamlead since Sep 2025:
+Team leader of Wireless compiler team (since Sep 2025):
+  - Monitoring and controlling team activities (dev. processes, code reviews, design and daily meetings, planning sessions, reporting to upper management, paper reviews, etc.)
+  - Mentoring new employees
+  - Interviewing new hires
+
+Principal developer in Wireless compiler team:
   - Developing new optimizations and analyses for LLVM and AI compilers
   - Performance analysis of target SW/models
   - Paper reviews
