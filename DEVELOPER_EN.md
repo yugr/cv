@@ -71,7 +71,7 @@ I am experienced in
 
 # Professional experience
 
-## Dec 2022 - present, Huawei (electronic industry), Moscow
+## Dec 2022 - present, Huawei (electronic industry)
 
 Team leader of Wireless compiler team (since Sep 2025):
   - Monitoring and controlling team activities (dev. processes, code reviews, design and daily meetings, planning sessions, reporting to upper management, paper reviews, etc.)
@@ -83,7 +83,7 @@ Principal developer in Wireless compiler team:
   - Performance analysis of target SW/models
   - Paper reviews
 
-## March 2020 - Dec 2022, Samsung Electronics (electronic industry), Moscow
+## March 2020 - Dec 2022, Samsung Electronics (electronic industry)
 
 HPC Lab leader:
   - Leading various projects in Accelerated Computing Team:
