@@ -56,7 +56,7 @@ I am experienced in
   (C++Russia 2024, [video in Russian](https://www.youtube.com/watch?v=blQavgcwrpA))
 - [Painless C++ comparators](https://github.com/yugr/CppRussia/blob/master/2023/EN.pdf)
   (C++Russia 2023, [video in Russian](https://www.youtube.com/watch?v=NKn1pAoB2MM))
-- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://www.youtube.com/watch?v=NKn1pAoB2MM&t=1171s)
+- Hanwoong Jung et al., [Accelerating Deep Neural Networks on Mobile Multicore NPUs](https://dl.acm.org/doi/10.1145/3579990.3580015)
   (CGO 2023)
 - [Runtime verification](https://github.com/yugr/Lalambda/blob/master/21/talk.pdf)
   (LaLambda 2021)
@@ -74,7 +74,7 @@ I am experienced in
 ## Dec 2022 - present, Huawei (electronic industry), Moscow
 
 Team leader of Wireless compiler team (since Sep 2025):
-  - Monitoring and controlling team activities (dev. processes, code reviews, design and daily meetings, planning sessions, reporting to upper management, paper reviews, etc.)
+  - Monitoring and controlling team activities (dev. processes, code and paper reviews, design and daily meetings, planning sessions, reporting to upper management, etc.)
   - Mentoring new employees
   - Interviewing new hires
 
