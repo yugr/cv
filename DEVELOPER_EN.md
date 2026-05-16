@@ -49,6 +49,8 @@ I am experienced in
 
 # Publications and conferences
 
+- [Performance of Rust language](https://github.com/yugr/rust-slides/blob/main/EN.pdf)
+  (C++Russia 2026)
 - AI compiler challenges (ISP RAS conference 2025, [video in Russian](https://vkvideo.ru/video-214485707_456239055?t=1h2m10s))
 - [Hardening: current status and trends](https://github.com/yugr/slides/blob/main/CppZeroCost/2025/EN.pdf)
   (C++ Zero Cost 2025, [video in Russian](https://www.youtube.com/watch?v=v9FY3AiSfHE))
